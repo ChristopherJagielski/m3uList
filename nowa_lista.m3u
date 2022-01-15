@@ -1,40 +1,568 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UTV" tvg-name="UK UTV (P)" tvg-logo="http://fanc.tmsimg.com/assets/s51307_h3_aa.png" group-title="Irish",UK UTV (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218558
-#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="UK RTE News HD  (P)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2617.png" group-title="Irish",UK RTE News HD  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218559
-#EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="UK RTE Jnr HD  (P)" tvg-logo="" group-title="Irish",UK RTE Jnr HD  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218561
-#EXTINF:-1 tvg-id="TG4" tvg-name="UK TG4  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s30454_ll_h3_aa.png" group-title="Irish",UK TG4  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218562
-#EXTINF:-1 tvg-id="VM1IRE" tvg-name="UK  Virgin Media One  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s30453_ll_h3_aa.png" group-title="Irish",UK  Virgin Media One  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218563
-#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="UK RTE 2 HD  (P)" tvg-logo="" group-title="Irish",UK RTE 2 HD  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218564
-#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="UK RTE 1 SD  (P)" tvg-logo="" group-title="Irish",UK RTE 1 SD  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218566
-#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="UK RTE 1 HD  (P)" tvg-logo="" group-title="Irish",UK RTE 1 HD  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218567
-#EXTINF:-1 tvg-id="VM2IRE" tvg-name="UK Virgin Media Two  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s54800_ll_h3_aa.png" group-title="Irish",UK Virgin Media Two  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218568
-#EXTINF:-1 tvg-id="VM3IRE" tvg-name="UK Virgin Media Three  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s102339_ll_h3_aa.png" group-title="Irish",UK Virgin Media Three  (P)
-#EXTGRP:Irish
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218569
-#EXTINF:-1 tvg-id="TRCELA" tvg-name="FR TRACE LATINA (D)" tvg-logo="http://fanc.tmsimg.com/assets/s113402_ll_h3_aa.png" group-title="French",FR TRACE LATINA (D)
-#EXTGRP:French
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992143123
-#EXTINF:-1 tvg-id="" tvg-name="FR OLYMPIA TV (D)" tvg-logo="" group-title="French",FR OLYMPIA TV (D)
-#EXTGRP:French
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992143068
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL UK Sky Sports Main Event FHD" tvg-logo="" group-title="World Sports",SPECIAL UK Sky Sports Main Event FHD
+#EXTGRP:SPECIAL
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218534
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL US Premier League TV" tvg-logo="" group-title="World Sports",SPECIAL US Premier League TV
+#EXTGRP:SPECIAL
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992164775
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL Sky Sports Main Event FHD 50fps" tvg-logo="" group-title="World Sports",SPECIAL Sky Sports Main Event FHD 50fps
+#EXTGRP:SPECIAL
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001632377
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL US NFL Network HD" tvg-logo="" group-title="World Sports",SPECIAL US NFL Network HD
+#EXTGRP:SPECIAL
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999215927
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL UK: Sky Sports Premier League FHD" tvg-logo="" group-title="World Sports",SPECIAL UK: Sky Sports Premier League FHD
+#EXTGRP:SPECIAL
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666263
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL UK Sky Sports Premier League 2" tvg-logo="" group-title="World Sports",SPECIAL UK Sky Sports Premier League 2
+#EXTGRP:SPECIAL
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114065
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL US ESPN 1" tvg-logo="" group-title="SPECIAL World Sports",US ESPN 1
+#EXTGRP:SPECIAL
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114285
+#EXTINF:-1 tvg-id="" tvg-name="World Viasat Sport HD RU" tvg-logo="" group-title="World Sports",World Viasat Sport HD RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110966
+#EXTINF:-1 tvg-id="" tvg-name="FR MULTISPORTS 5 (P)" tvg-logo="" group-title="World Sports",FR MULTISPORTS 5 (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142634
+#EXTINF:-1 tvg-id="" tvg-name="World Canal + Sport 4 PL (P)" tvg-logo="" group-title="World Sports",World Canal + Sport 4 PL (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992132774
+#EXTINF:-1 tvg-id="" tvg-name="World Viasat Sport Premium HD SK" tvg-logo="" group-title="World Sports",World Viasat Sport Premium HD SK
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110967
+#EXTINF:-1 tvg-id="" tvg-name="FR MULTISPORTS 4 (P)" tvg-logo="" group-title="World Sports",FR MULTISPORTS 4 (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142633
+#EXTINF:-1 tvg-id="" tvg-name="World A Haber TR" tvg-logo="" group-title="World Sports",World A Haber TR
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214573
+#EXTINF:-1 tvg-id="" tvg-name="World Viasat Fotboll HD SK" tvg-logo="" group-title="World Sports",World Viasat Fotboll HD SK
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110968
+#EXTINF:-1 tvg-id="" tvg-name="FR MULTISPORTS 3 (P)" tvg-logo="" group-title="World Sports",FR MULTISPORTS 3 (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142632
+#EXTINF:-1 tvg-id="" tvg-name="World Kanal D TR" tvg-logo="" group-title="World Sports",World Kanal D TR
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214575
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 5  Live IL" tvg-logo="" group-title="World Sports",World Sport 5  Live IL
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110969
+#EXTINF:-1 tvg-id="" tvg-name="FR MULTISPORTS 2 (P)" tvg-logo="" group-title="World Sports",FR MULTISPORTS 2 (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142631
+#EXTINF:-1 tvg-id="" tvg-name="FR MULTISPORTS 1 (P)" tvg-logo="" group-title="World Sports",FR MULTISPORTS 1 (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142630
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport 2 RU" tvg-logo="" group-title="World Sports",World Eurosport 2 RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214581
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport RU" tvg-logo="" group-title="World Sports",World Eurosport RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214582
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="World Eurosport 2 HD FR" tvg-logo="" group-title="World Sports",World Eurosport 2 HD FR
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214587
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="World Eurosport 1 HD FR" tvg-logo="" group-title="World Sports",World Eurosport 1 HD FR
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214588
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 5 IL" tvg-logo="" group-title="World Sports",World Sport 5 IL
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110970
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport Gold HD RU" tvg-logo="" group-title="World Sports",World Eurosport Gold HD RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214589
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 4 IL" tvg-logo="" group-title="World Sports",World Sport 4 IL
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110971
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport 2 HD RU" tvg-logo="" group-title="World Sports",World Eurosport 2 HD RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214590
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 3 IL" tvg-logo="" group-title="World Sports",World Sport 3 IL
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110972
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport HD RU" tvg-logo="" group-title="World Sports",World Eurosport HD RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214591
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 2 IL" tvg-logo="" group-title="World Sports",World Sport 2 IL
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110973
+#EXTINF:-1 tvg-id="eurosportnorge.no" tvg-name="World Eurosport HD NO" tvg-logo="" group-title="World Sports",World Eurosport HD NO
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214592
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 1 IL" tvg-logo="" group-title="World Sports",World Sport 1 IL
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110974
+#EXTINF:-1 tvg-id="eurosport2.dk" tvg-name="World Eurosport 2 HD DK" tvg-logo="" group-title="World Sports",World Eurosport 2 HD DK
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214593
+#EXTINF:-1 tvg-id="" tvg-name="World Sky Sport Austria HD AUT" tvg-logo="" group-title="World Sports",World Sky Sport Austria HD AUT
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992111184
+#EXTINF:-1 tvg-id="eurosport2.se" tvg-name="World Eurosport 2 HD SW" tvg-logo="" group-title="World Sports",World Eurosport 2 HD SW
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214594
+#EXTINF:-1 tvg-id="" tvg-name="World Equida FR HD (P)" tvg-logo="" group-title="World Sports",World Equida FR HD (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992112023
+#EXTINF:-1 tvg-id="EUSPONL" tvg-name="4K World Eurosport (D)" tvg-logo="http://fanc.tmsimg.com/assets/s104916_ll_h3_aa.png" group-title="World Sports",4K World Eurosport (D)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214595
+#EXTINF:-1 tvg-id="" tvg-name="World Equida FR SD (P)" tvg-logo="" group-title="World Sports",World Equida FR SD (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992112024
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport 1 HD PT" tvg-logo="" group-title="World Sports",World Eurosport 1 HD PT
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214596
+#EXTINF:-1 tvg-id="" tvg-name="World Canal+ Sport PL" tvg-logo="" group-title="World Sports",World Canal+ Sport PL
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992113533
+#EXTINF:-1 tvg-id="" tvg-name="World Setanta Sports FHD Ukraine" tvg-logo="" group-title="World Sports",World Setanta Sports FHD Ukraine
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992116398
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport 2 Xtra HD DE" tvg-logo="" group-title="World Sports",World Eurosport 2 Xtra HD DE
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214597
+#EXTINF:-1 tvg-id="" tvg-name="World Belarus 5" tvg-logo="" group-title="World Sports",World Belarus 5
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992127207
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="World Eurosport HD DE" tvg-logo="" group-title="World Sports",World Eurosport HD DE
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214598
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 1 UA" tvg-logo="" group-title="World Sports",World Sport 1 UA
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992127823
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport 1 ES HD" tvg-logo="" group-title="World Sports",World Eurosport 1 ES HD
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214599
+#EXTINF:-1 tvg-id="" tvg-name="World Football 1 RU" tvg-logo="" group-title="World Sports",World Football 1 RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992127888
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport 1 HD RO" tvg-logo="" group-title="World Sports",World Eurosport 1 HD RO
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214601
+#EXTINF:-1 tvg-id="" tvg-name="World Football 2 RU" tvg-logo="" group-title="World Sports",World Football 2 RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992127889
+#EXTINF:-1 tvg-id="" tvg-name="World Eurosport 2 HD RO" tvg-logo="" group-title="World Sports",World Eurosport 2 HD RO
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214600
+#EXTINF:-1 tvg-id="" tvg-name="World Football 3 RU" tvg-logo="" group-title="World Sports",World Football 3 RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992127890
+#EXTINF:-1 tvg-id="" tvg-name="World Sky Bundesliga 1 HD" tvg-logo="" group-title="World Sports",World Sky Bundesliga 1 HD
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214603
+#EXTINF:-1 tvg-id="" tvg-name="World Sportdigital DE FHD (P)" tvg-logo="" group-title="World Sports",World Sportdigital DE FHD (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130750
+#EXTINF:-1 tvg-id="" tvg-name="World Sky Sport 1 HD DE" tvg-logo="" group-title="World Sports",World Sky Sport 1 HD DE
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214605
+#EXTINF:-1 tvg-id="" tvg-name="World Sky Sport 2 HD DE" tvg-logo="" group-title="World Sports",World Sky Sport 2 HD DE
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214604
+#EXTINF:-1 tvg-id="" tvg-name="World Sportdigital DE HD (P)" tvg-logo="" group-title="World Sports",World Sportdigital DE HD (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130751
+#EXTINF:-1 tvg-id="" tvg-name="World DAZN1 DE  (P)" tvg-logo="" group-title="World Sports",World DAZN1 DE  (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214607
+#EXTINF:-1 tvg-id="" tvg-name="World Diema Sport 1 BG FHD (P)" tvg-logo="" group-title="World Sports",World Diema Sport 1 BG FHD (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130752
+#EXTINF:-1 tvg-id="" tvg-name="World DAZN2 DE  (P)" tvg-logo="" group-title="World Sports",World DAZN2 DE  (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214606
+#EXTINF:-1 tvg-id="" tvg-name="World Diema Sport 2 BG FHD (P)" tvg-logo="" group-title="World Sports",World Diema Sport 2 BG FHD (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130753
+#EXTINF:-1 tvg-id="" tvg-name="World Sport 2 UA" tvg-logo="" group-title="World Sports",World Sport 2 UA
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130754
+#EXTINF:-1 tvg-id="" tvg-name="World Canal 9 DK" tvg-logo="" group-title="World Sports",World Canal 9 DK
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218311
+#EXTINF:-1 tvg-id="" tvg-name="World Football 1 UA" tvg-logo="" group-title="World Sports",World Football 1 UA
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130755
+#EXTINF:-1 tvg-id="" tvg-name="World Canal+Sport FR" tvg-logo="" group-title="World Sports",World Canal+Sport FR
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218386
+#EXTINF:-1 tvg-id="" tvg-name="World Setanta Eurasia+ FHD" tvg-logo="" group-title="World Sports",World Setanta Eurasia+ FHD
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110910
+#EXTINF:-1 tvg-id="" tvg-name="World Football 2 UA" tvg-logo="" group-title="World Sports",World Football 2 UA
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130756
+#EXTINF:-1 tvg-id="" tvg-name="World Setanta Eurasia FHD" tvg-logo="" group-title="World Sports",World Setanta Eurasia FHD
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110911
+#EXTINF:-1 tvg-id="" tvg-name="World XSPORT UA" tvg-logo="" group-title="World Sports",World XSPORT UA
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992130758
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="World Eurosport 2 HD DE" tvg-logo="" group-title="World Sports",World Eurosport 2 HD DE
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110964
+#EXTINF:-1 tvg-id="" tvg-name="World Canal + Sport 2 PL (P)" tvg-logo="" group-title="World Sports",World Canal + Sport 2 PL (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992132772
+#EXTINF:-1 tvg-id="" tvg-name="World Viasat Sport SD RU" tvg-logo="" group-title="World Sports",World Viasat Sport SD RU
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992110965
+#EXTINF:-1 tvg-id="" tvg-name="FR MULTISPORTS 6 (P)" tvg-logo="" group-title="World Sports",FR MULTISPORTS 6 (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142635
+#EXTINF:-1 tvg-id="" tvg-name="World Canal + Sport 3 PL (P)" tvg-logo="" group-title="World Sports",World Canal + Sport 3 PL (P)
+#EXTGRP:World Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992132773
+#EXTINF:-1 tvg-id="" tvg-name="UK Motors TV  (P)" tvg-logo="" group-title="United Kingdom Sports",UK Motors TV  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218587
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK Sky Sports Action 6 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19038_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Action 6 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133001
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK Sky Sports F1 3  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports F1 3  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123705
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="UK At The Races HD  (P)" tvg-logo="" group-title="United Kingdom Sports",UK At The Races HD  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992119956
+#EXTINF:-1 tvg-id="PRMSPRT" tvg-name="UK Premier Sports 1 SD  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s54139_ll_h3_aa.png" group-title="United Kingdom Sports",UK Premier Sports 1 SD  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218588
+#EXTINF:-1 tvg-id="SSPOFB" tvg-name="UK Sky Sports Football 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104325_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Football 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133002
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK BT ESPN HD 1 (P)" tvg-logo="" group-title="United Kingdom Sports",UK BT ESPN HD 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218498
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK Sky Sports Action 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19038_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Action 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123706
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="UK At The Races SD  (P)" tvg-logo="" group-title="United Kingdom Sports",UK At The Races SD  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992119957
+#EXTINF:-1 tvg-id="PRMSPRT" tvg-name="UK Premier Sports 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s54139_ll_h3_aa.png" group-title="United Kingdom Sports",UK Premier Sports 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218591
+#EXTINF:-1 tvg-id="SSPOFB" tvg-name="UK Sky Sports Football 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104325_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Football 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133003
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK BT ESPN HD 2  (P)" tvg-logo="" group-title="United Kingdom Sports",UK BT ESPN HD 2  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218499
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK Sky Sports Arena 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104322_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Arena 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123707
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK Sky Sports F1 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports F1 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114077
+#EXTINF:-1 tvg-id="BOXNAUK" tvg-name="UK Box Nation HD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s105686_ll_h3_aa.png" group-title="United Kingdom Sports",UK Box Nation HD (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218592
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK Sky Sports Golf FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Golf FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133004
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK BT ESPN SD  (P)" tvg-logo="" group-title="United Kingdom Sports",UK BT ESPN SD  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218500
+#EXTINF:-1 tvg-id="SSPOMXS" tvg-name="UK Sky Sports Mix 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s100265_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Mix 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123708
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports F1 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114078
+#EXTINF:-1 tvg-id="" tvg-name="UK Racing UK 1  (P)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3636.png" group-title="United Kingdom Sports",UK Racing UK 1  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218594
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK Sky Sports Golf 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Golf 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133005
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK Sky Sports Action FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s19038_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Action FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218529
+#EXTINF:-1 tvg-id="SSPORAC" tvg-name="UK Sky Sports Racing FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s30505_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Racing FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123709
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK Sky Sports F1 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports F1 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114079
+#EXTINF:-1 tvg-id="EIRSP2" tvg-name="UK eir Sport 2  FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s43753_ll_h3_aa.png" group-title="United Kingdom Sports",UK eir Sport 2  FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218595
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK Sky Sports Premier League 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Premier League 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133006
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK Sky Sports Action 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19038_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Action 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218530
+#EXTINF:-1 tvg-id="SSPONE" tvg-name="UK Sky Sports News 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s20643_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports News 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123710
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK Sky Sports Action 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19038_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Action 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114085
+#EXTINF:-1 tvg-id="EIRSP1" tvg-name="UK eir Sport 1 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s73782_ll_h3_aa.png" group-title="United Kingdom Sports",UK eir Sport 1 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218596
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK Sky Sports Premier League 6 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Premier League 6 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133007
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="UK Sky Sports Main Event FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s17744_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Main Event FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218534
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK Sky Sports Action 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19038_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Action 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114086
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK Sky Sports Cricket 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19036_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Cricket 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133008
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="UK Sky Sports Main Event 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s17744_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Main Event 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218535
+#EXTINF:-1 tvg-id="TRTWRSD" tvg-name="UK TRT World (D)" tvg-logo="http://fanc.tmsimg.com/assets/s105269_ll_h3_aa.png" group-title="United Kingdom Sports",UK TRT World (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999214574
+#EXTINF:-1 tvg-id="SkySpRacing.uk" tvg-name="UK Racing TV HD 1  (P)" tvg-logo="" group-title="United Kingdom Sports",UK Racing TV HD 1  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114089
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK Sky Sports Cricket 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19036_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Cricket 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133009
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="UK Sky Sports Main Event 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s17744_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Main Event 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218536
+#EXTINF:-1 tvg-id="SkySpRacing.uk" tvg-name="UK Racing TV HD 2  (P)" tvg-logo="" group-title="United Kingdom Sports",UK Racing TV HD 2  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114090
+#EXTINF:-1 tvg-id="SSPONE" tvg-name="UK Sky Sports News 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s20643_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports News 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133010
+#EXTINF:-1 tvg-id="SSPONE" tvg-name="UK Sky Sports News 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s20643_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports News 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218537
+#EXTINF:-1 tvg-id="SSPONE" tvg-name="UK Sky Sports News FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s20643_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports News FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218538
+#EXTINF:-1 tvg-id="SSPOFB" tvg-name="UK Sky Sports Football 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104325_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Football 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114092
+#EXTINF:-1 tvg-id="SSPONE" tvg-name="UK Sky Sports News 6 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s20643_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports News 6 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133011
+#EXTINF:-1 tvg-id="SSPONE" tvg-name="UK Sky Sports News 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s20643_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports News 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218539
+#EXTINF:-1 tvg-id="SSPOFB" tvg-name="UK Sky Sports Football FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s104325_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Football FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114093
+#EXTINF:-1 tvg-id="PRSP2UK" tvg-name="UK Premier Sports 2 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s109162_ll_h3_aa.png" group-title="United Kingdom Sports",UK Premier Sports 2 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999219050
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sports 1 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sports 1 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133016
+#EXTINF:-1 tvg-id="SSPOFB" tvg-name="UK Sky Sports Football 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104325_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Football 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114094
+#EXTINF:-1 tvg-id="BTSPOR2" tvg-name="UK BT Sports 2 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s97544_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sports 2 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133017
+#EXTINF:-1 tvg-id="BTSP3HD" tvg-name="UK BT Sports 3 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s95772_ll_h3_ab.png" group-title="United Kingdom Sports",UK BT Sports 3 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133018
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sport 1 HD 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 1 HD 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114096
+#EXTINF:-1 tvg-id="ESPN" tvg-name="UK ESPN FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s10179_ll_h3_aa.png" group-title="United Kingdom Sports",UK ESPN FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133019
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sport 1 HD 2  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 1 HD 2  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114097
+#EXTINF:-1 tvg-id="BOXNAUK" tvg-name="UK BoxNation HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s105686_ll_h3_aa.png" group-title="United Kingdom Sports",UK BoxNation HD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133020
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sport 1 HD 3  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 1 HD 3  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114098
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK Sky Sports Golf 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Golf 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114056
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sport 1 SD  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 1 SD  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114099
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK Sky Sports Golf 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Golf 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114057
+#EXTINF:-1 tvg-id="BTSP1HD" tvg-name="UK BT Sports 1 HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s82450_ll_h3_ab.png" group-title="United Kingdom Sports",UK BT Sports 1 HD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139752
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sport 2 HD 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 2 HD 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114100
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK Sky Sports Golf 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Golf 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114059
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sports 1 SD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sports 1 SD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139753
+#EXTINF:-1 tvg-id="BTSPOR2" tvg-name="UK BT Sport 2 HD 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s97544_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 2 HD 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114101
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK Sky Sports Cricket FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s19036_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Cricket FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114060
+#EXTINF:-1 tvg-id="BTSP2HD" tvg-name="UK BT Sports 2 HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s82451_ll_h3_ab.png" group-title="United Kingdom Sports",UK BT Sports 2 HD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139754
+#EXTINF:-1 tvg-id="BTSPOR2" tvg-name="UK BT Sport 2 HD 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s97544_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 2 HD 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114102
+#EXTINF:-1 tvg-id="BTSPOR2" tvg-name="UK BT Sport 2 SD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s97544_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 2 SD (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114103
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK Sky Sports Cricket 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19036_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Cricket 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114061
+#EXTINF:-1 tvg-id="BTSPOR2" tvg-name="UK BT Sports 2 SD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s97544_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sports 2 SD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139755
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sport 3 HD 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 3 HD 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114104
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK Sky Sports Cricket 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19036_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Cricket 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114062
+#EXTINF:-1 tvg-id="BTSP3HD" tvg-name="UK BT Sports 3 HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s95772_ll_h3_ab.png" group-title="United Kingdom Sports",UK BT Sports 3 HD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139756
+#EXTINF:-1 tvg-id="BTSPOR2" tvg-name="UK BT Sport 3 HD 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s97544_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 3 HD 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114105
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK Sky Sports Premier League FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Premier League FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114063
+#EXTINF:-1 tvg-id="RAISP" tvg-name="IT Rai Sport (D)" tvg-logo="http://fanc.tmsimg.com/assets/s105242_ll_h3_aa.png" group-title="United Kingdom Sports",IT Rai Sport (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218310
+#EXTINF:-1 tvg-id="BTSP3HD" tvg-name="UK BT Sports 3 SD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s95772_ll_h3_ab.png" group-title="United Kingdom Sports",UK BT Sports 3 SD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139757
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK BT Sport 3 HD 3 (P)" tvg-logo="" group-title="United Kingdom Sports",UK BT Sport 3 HD 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114106
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK Sky Sports Premier League 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Premier League 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114064
+#EXTINF:-1 tvg-id="ESPN" tvg-name="UK ESPN HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s10179_ll_h3_aa.png" group-title="United Kingdom Sports",UK ESPN HD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139758
+#EXTINF:-1 tvg-id="PRMSPRT" tvg-name="UK Premiere Sports 1 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s54139_ll_h3_aa.png" group-title="United Kingdom Sports",UK Premiere Sports 1 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142598
+#EXTINF:-1 tvg-id="BTSP1FR" tvg-name="UK BT Sport 3 SD (P)" tvg-logo="http://fanc.tmsimg.com/assets/s91915_ll_h3_aa.png" group-title="United Kingdom Sports",UK BT Sport 3 SD (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114107
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK Sky Sports Premier League 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Premier League 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114065
+#EXTINF:-1 tvg-id="PRMSPRT" tvg-name="UK Premiere Sports 2 FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s54139_ll_h3_aa.png" group-title="United Kingdom Sports",UK Premiere Sports 2 FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142599
+#EXTINF:-1 tvg-id="SSPOMXS" tvg-name="UK Sky Sports Mix 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s100265_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Mix 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114110
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK Sky Sports Premier League 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Premier League 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114066
+#EXTINF:-1 tvg-id="" tvg-name="UK Newcastle United TV" tvg-logo="" group-title="United Kingdom Sports",UK Newcastle United TV
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218575
+#EXTINF:-1 tvg-id="" tvg-name="IT MS Motor TV" tvg-logo="" group-title="United Kingdom Sports",IT MS Motor TV
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218309
+#EXTINF:-1 tvg-id="FRSPUK" tvg-name="UK FreeSports (D)" tvg-logo="http://fanc.tmsimg.com/assets/s105525_ll_h3_aa.png" group-title="United Kingdom Sports",UK FreeSports (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142600
+#EXTINF:-1 tvg-id="SkySpRacing.uk" tvg-name="UK Racing TV SD  (P)" tvg-logo="" group-title="United Kingdom Sports",UK Racing TV SD  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114113
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK Sky Sports Arena 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104322_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Arena 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114067
+#EXTINF:-1 tvg-id="LDSTV" tvg-name="UK Leeds TV" tvg-logo="http://fanc.tmsimg.com/assets/s89508_ll_h3_aa.png" group-title="United Kingdom Sports",UK Leeds TV
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218576
+#EXTINF:-1 tvg-id="FRSPUK" tvg-name="UK FreeSports (P)" tvg-logo="http://fanc.tmsimg.com/assets/s105525_ll_h3_aa.png" group-title="United Kingdom Sports",UK FreeSports (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218584
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK EuroSport 2 UK (P)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1841.png" group-title="United Kingdom Sports",UK EuroSport 2 UK (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218585
+#EXTINF:-1 tvg-id="" tvg-name="UK LaLiga FHD (D)" tvg-logo="" group-title="United Kingdom Sports",UK LaLiga FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992142601
+#EXTINF:-1 tvg-id="SSPOME" tvg-name="UK Sky Sports Main Event 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s17744_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Main Event 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123700
+#EXTINF:-1 tvg-id="ESPN" tvg-name="UK ESPN SD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s10179_ll_h3_aa.png" group-title="United Kingdom Sports",UK ESPN SD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139759
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK Sky Sports Arena FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s104322_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Arena FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114068
+#EXTINF:-1 tvg-id="RACING" tvg-name="UK Racing UK 2  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24226_ll_h3_aa.png" group-title="United Kingdom Sports",UK Racing UK 2  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992118216
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK Sky Sports Arena 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104322_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Arena 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992132996
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK Sky Sports Arena 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104322_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Arena 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992132997
+#EXTINF:-1 tvg-id="SSPOPL" tvg-name="UK Sky Sports Premier League 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Premier League 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123701
+#EXTINF:-1 tvg-id="BOXNAUK" tvg-name="UK Box Nation SD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s105686_ll_h3_aa.png" group-title="United Kingdom Sports",UK Box Nation SD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992139760
+#EXTINF:-1 tvg-id="SSPOAR" tvg-name="UK Sky Sports Arena 2 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104322_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Arena 2 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114069
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK Sky Sports F1 4 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports F1 4 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992132998
+#EXTINF:-1 tvg-id="SSPOFB" tvg-name="UK Sky Sports Football 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s104325_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Football 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123702
+#EXTINF:-1 tvg-id="SSPONE" tvg-name="UK Sky Sports News 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s20643_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports News 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114071
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK Sky Sports F1 2  (P)" tvg-logo="http://fanc.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports F1 2  (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992132999
+#EXTINF:-1 tvg-id="SSPOCR" tvg-name="UK Sky Sports Cricket 3 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19036_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Cricket 3 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123703
+#EXTINF:-1 tvg-id="SSPOMXS" tvg-name="UK Sky Sports Mix 1 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s100265_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Mix 1 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114074
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1726.png" group-title="United Kingdom Sports",UK EuroSport 1 UK (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/7999218586
+#EXTINF:-1 tvg-id="SSPOAC" tvg-name="UK Sky Sports Action 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s19038_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Action 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992133000
+#EXTINF:-1 tvg-id="SSPOGO" tvg-name="UK Sky Sports Golf 5 (P)" tvg-logo="http://fanc.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Golf 5 (P)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992123704
+#EXTINF:-1 tvg-id="SSPOMXS" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s100265_ll_h3_aa.png" group-title="United Kingdom Sports",UK Sky Sports Mix FHD (D)
+#EXTGRP:United Kingdom Sports
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992114075
 #EXTINF:-1 tvg-id="" tvg-name="FR Fashion TV (D)" tvg-logo="" group-title="French",FR Fashion TV (D)
 #EXTGRP:French
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992172129
@@ -50,9 +578,60 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992172124
 #EXTINF:-1 tvg-id="" tvg-name="FR Amuse Animation (D)" tvg-logo="" group-title="French",FR Amuse Animation (D)
 #EXTGRP:French
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992172122
-#EXTINF:-1 tvg-id="" tvg-name="Boxnation HD" tvg-logo="" group-title="UK SPORTS",Boxnation HD
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001728420
+#EXTINF:-1 tvg-id="TRCELA" tvg-name="FR TRACE LATINA (D)" tvg-logo="http://fanc.tmsimg.com/assets/s113402_ll_h3_aa.png" group-title="French",FR TRACE LATINA (D)
+#EXTGRP:French
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992143123
+#EXTINF:-1 tvg-id="" tvg-name="FR OLYMPIA TV (D)" tvg-logo="" group-title="French",FR OLYMPIA TV (D)
+#EXTGRP:French
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/79992143068
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="WORLD SPORTS",BEIN SPORTS 1HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191848
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="WORLD SPORTS",BEIN SPORTS 2HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191849
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="WORLD SPORTS",BEIN SPORTS 3HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191850
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="WORLD SPORTS",BEIN SPORTS 4HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191851
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7HD" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/27/beIN-MAX7.png" group-title="WORLD SPORTS",BEIN SPORTS 7HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191854
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="BEIN SPORTS 8HD" tvg-logo="https://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png" group-title="WORLD SPORTS",BEIN SPORTS 8HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191855
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="BEIN SPORTS 9HD" tvg-logo="https://i.pinimg.com/originals/42/64/42/42644282ab24398b2823477e8165b9b3.png" group-title="WORLD SPORTS",BEIN SPORTS 9HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191856
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN Sports English 1" tvg-logo="https://iptv4free.net/assets/images/channel/channel_featured_1565972989.png" group-title="WORLD SPORTS",beIN Sports English 1
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191858
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="beIN Sports English 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="WORLD SPORTS",beIN Sports English 2
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191859
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3" tvg-logo="" group-title="WORLD SPORTS",beIN Sports English 3
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001721458
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA: SPORTSNET WORLD" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="WORLD SPORTS",CA: SPORTSNET WORLD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001191880
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="Bein Sports 5HD" tvg-logo="https://cdn.bein.net/ca/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="WORLD SPORTS",Bein Sports 5HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001270029
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="Bein Sports 6HD" tvg-logo="https://4.bp.blogspot.com/-1dPQNlxlceA/WlPXHfNatgI/AAAAAAAAAcg/qi8He1MCorIajq3clE6MYD1oLAy90ig6ACLcBGAs/s1600/6-HD.png" group-title="WORLD SPORTS",Bein Sports 6HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001270030
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="Bein Sports 10HD" tvg-logo="https://www.all-tvshows.com/uploads/tv_image/bein-sport-10-hd.png" group-title="WORLD SPORTS",Bein Sports 10HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001270034
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA" tvg-logo="" group-title="WORLD SPORTS",Bein Sport NBA
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001270038
+#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="Bein Sports 13HD" tvg-logo="" group-title="WORLD SPORTS",Bein Sports 13HD
+#EXTGRP:WORLD SPORTS
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001633560
 #EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BoxNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg" group-title="UK SPORTS",UK: BoxNation
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001708670
@@ -74,27 +653,6 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001728418
 #EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="http://3.bp.blogspot.com/_-KoP4glAS6U/S1HmrPiD_sI/AAAAAAAAAE4/rrrjXXx9UfY/s320/british_eurosport2.png" group-title="UK SPORTS",UK: Eurosport 2
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001708674
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Eurosport 3" tvg-logo="" group-title="UK SPORTS",UK FHD : Eurosport 3
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001732113
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Eurosport 4" tvg-logo="" group-title="UK SPORTS",UK FHD : Eurosport 4
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001732114
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Eurosport 5" tvg-logo="" group-title="UK SPORTS",UK FHD : Eurosport 5
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001732115
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Eurosport 6" tvg-logo="" group-title="UK SPORTS",UK FHD : Eurosport 6
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001732116
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Eurosport 7" tvg-logo="" group-title="UK SPORTS",UK FHD : Eurosport 7
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001732117
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Eurosport 8" tvg-logo="" group-title="UK SPORTS",UK FHD : Eurosport 8
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001732118
-#EXTINF:-1 tvg-id="" tvg-name="UK FHD : Eurosport 9" tvg-logo="" group-title="UK SPORTS",UK FHD : Eurosport 9
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001732119
 #EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FreeSports FHD" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/FREESPORTS-2018.png" group-title="UK SPORTS",UK: FreeSports FHD
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001708675
@@ -116,9 +674,6 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001712979
 #EXTINF:-1 tvg-id="" tvg-name="LFC TV HD" tvg-logo="" group-title="UK SPORTS",LFC TV HD
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001728411
-#EXTINF:-1 tvg-id="" tvg-name="UK: MotoGP Channel" tvg-logo="https://i.pinimg.com/originals/16/b0/1c/16b01c6fe382f4752986efc781306781.png" group-title="UK SPORTS",UK: MotoGP Channel
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001708678
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV FHD" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/05/MUTV_logo.png" group-title="UK SPORTS",UK: MUTV FHD
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001717194
@@ -161,15 +716,72 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001708682
 #EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV  FHD" tvg-logo="https://www.leicester-racecourse.co.uk/images/header_racingtv.png" group-title="UK SPORTS",UK: Racing TV  FHD
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001708684
-#EXTINF:-1 tvg-id="" tvg-name="RacingTV HD" tvg-logo="" group-title="UK SPORTS",RacingTV HD
-#EXTGRP:UK SPORTS
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001728409
 #EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV SD" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/10/Racing-TV.png" group-title="UK SPORTS",UK: Racing TV SD
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001717835
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sporty Stuff FHD" tvg-logo="https://nitrocdn.com/cPIfpCvgjIaKJCGbIgXFgxQHfNeyTMFC/assets/static/optimized/rev-bcd459e/wp-content/uploads/2021/02/Sporty-Stuff-TV-logo.jpg" group-title="UK SPORTS",UK: Sporty Stuff FHD
 #EXTGRP:UK SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001712447
+#EXTINF:-1 tvg-id="" tvg-name="UEFA01: Dynamo Kiev 17:45 Bayern Munich 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA01: Dynamo Kiev 17:45 Bayern Munich 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735317
+#EXTINF:-1 tvg-id="" tvg-name="UEFA02: Villareal 17:45 Manchester United 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA02: Villareal 17:45 Manchester United 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735318
+#EXTINF:-1 tvg-id="" tvg-name="UEFA03: Barcelona 20:00 Benfica 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA03: Barcelona 20:00 Benfica 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735319
+#EXTINF:-1 tvg-id="" tvg-name="UEFA04: Chelsea 20:00 Juventus 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA04: Chelsea 20:00 Juventus 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735320
+#EXTINF:-1 tvg-id="" tvg-name="UEFA05: Lille 20:00 Salzburg 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA05: Lille 20:00 Salzburg 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735321
+#EXTINF:-1 tvg-id="" tvg-name="UEFA06: Malmo 20:00 Zenit 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA06: Malmo 20:00 Zenit 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735322
+#EXTINF:-1 tvg-id="" tvg-name="UEFA07: Sevilla 20:00 Wolfsburg 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA07: Sevilla 20:00 Wolfsburg 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735323
+#EXTINF:-1 tvg-id="" tvg-name="UEFA08: Young Boys 20:00 Atalanta 23/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA08: Young Boys 20:00 Atalanta 23/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735324
+#EXTINF:-1 tvg-id="" tvg-name="UEFA09: Besiktas 17:45 Ajax 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA09: Besiktas 17:45 Ajax 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735325
+#EXTINF:-1 tvg-id="" tvg-name="UEFA10: Inter 17:45 Shakhtar D 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA10: Inter 17:45 Shakhtar D 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735326
+#EXTINF:-1 tvg-id="" tvg-name="UEFA11: Athletico M 20:00 AC Milan 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA11: Athletico M 20:00 AC Milan 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735327
+#EXTINF:-1 tvg-id="" tvg-name="UEFA12: Club Brugge 20:00 RB Leipzig 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA12: Club Brugge 20:00 RB Leipzig 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735328
+#EXTINF:-1 tvg-id="" tvg-name="UEFA13: Liverpool 20:00 Porto 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA13: Liverpool 20:00 Porto 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735329
+#EXTINF:-1 tvg-id="" tvg-name="UEFA14: Manchester C 20:00 Paris SG 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA14: Manchester C 20:00 Paris SG 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735330
+#EXTINF:-1 tvg-id="" tvg-name="UEFA15: Sheriff Tiraspol 20:00 Real Madrid 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA15: Sheriff Tiraspol 20:00 Real Madrid 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735331
+#EXTINF:-1 tvg-id="" tvg-name="UEFA16: Sporting 20:00 Borussia D 24/11" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA16: Sporting 20:00 Borussia D 24/11
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735332
+#EXTINF:-1 tvg-id="" tvg-name="UEFA 17:" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA 17:
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735333
+#EXTINF:-1 tvg-id="" tvg-name="UEFA 18:" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA 18:
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735334
+#EXTINF:-1 tvg-id="" tvg-name="UEFA 19:" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA 19:
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735335
+#EXTINF:-1 tvg-id="" tvg-name="UEFA 20:" tvg-logo="" group-title="UEFA/EUROPA LEAGUE (Testing phase)",UEFA 20:
+#EXTGRP:UEFA/EUROPA LEAGUE (Testing phase)
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001735336
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena FHD 50fps" tvg-logo="https://www.trentinovolley.it/images/stories/com_form2content/p9/f7399/29042020sportarena.jpg" group-title="SKY SPORTS",Sky Sports Arena FHD 50fps
 #EXTGRP:SKY SPORTS
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/200001632367
@@ -686,7 +1298,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666343
 #EXTINF:-1 tvg-id="cinemax.pl" tvg-name="PL: Cinemax FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00ec5e9df167e3baccd58fa840c0518d.png" group-title="Poland",PL: Cinemax FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666345
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: Eeleven Sports 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png" group-title="Poland",PL: Eeleven Sports 1 FHD
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png" group-title="Poland",PL: ELEVEN SPORTS 1 FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666347
 #EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0558215aed968675061b7626e36d357e.png" group-title="Poland",PL: EUROSPORT 1 FHD
@@ -836,7 +1448,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6662696
 #EXTINF:-1 tvg-id="atmrozrywka.pl" tvg-name="PL: TVP Rozrywka HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/087e2f38b1ceeed2f8f06c2a3eac713e.png" group-title="Poland",PL: TVP Rozrywka HD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6662698
-#EXTINF:-1 tvg-id="" tvg-name="PL: VH1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8257d39760936e74908293c5e829b1ec.png" group-title="Poland",PL: VH1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL: VH1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/d4bbee2fc87b57b4603f8884c2cbfdbd.png" group-title="Poland",PL: VH1 FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6662701
 #EXTINF:-1 tvg-id="4funhits.pl" tvg-name="PL: 4 Fun Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/def2f373ae714251530c0089cadae7aa.png" group-title="Poland",PL: 4 Fun Kids HD
@@ -1190,9 +1802,12 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666147035
 #EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c404f889f4046f09e2dca333dea70f2.png" group-title="Poland",PL: Polsat Sport Premium 6 FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666147036
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Family HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0b0740eb7ff783b99c5e9b91e4107be8.png" group-title="Poland",PL: CANAL+ Family HD
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ Family FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0b0740eb7ff783b99c5e9b91e4107be8.png" group-title="Poland",PL: CANAL+ Family FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666147180
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: TVC HD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666192105
 #EXTINF:-1 tvg-id="" tvg-name="PL: Novela TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9210ebe280367fec6fff0412a48f0744.png" group-title="Poland",PL: Novela TV HD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666192812
@@ -1208,6 +1823,15 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666193765
 #EXTINF:-1 tvg-id="" tvg-name="PL: TV Trwam HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3ed508e70ca33943ea85c89c720173ba.png" group-title="Poland",PL: TV Trwam HD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666196356
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Dokument FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: TVP Dokument FHD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666276472
+#EXTINF:-1 tvg-id="" tvg-name="PL: Biznes24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: Biznes24 FHD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666276488
+#EXTINF:-1 tvg-id="" tvg-name="PL: Home TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: Home TV HD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666276491
 #EXTINF:-1 tvg-id="" tvg-name="PL: 4Fun Dance HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/b86ff63a571df5e13957e2136f7b9d2c.png" group-title="Poland",PL: 4Fun Dance HD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666278633
@@ -1226,36 +1850,33 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666280323
 #EXTINF:-1 tvg-id="" tvg-name="PL: Eska TV Extra FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/63eddfafa832d6d678a7af7a182796f7.png" group-title="Poland",PL: Eska TV Extra FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281589
-#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 00s HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/58fd1fff0b453937470ae8800c40e08d.png" group-title="Poland",PL: MTV 00s HD
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 00s HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ef84572194417f8bb664102885bef71c.jpg" group-title="Poland",PL: MTV 00s HD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281590
 #EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Turbo Xtra FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ad2248ed73515048617dfac5243457f8.png" group-title="Poland",PL: Discovery Turbo Xtra FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666283190
-#EXTINF:-1 tvg-id="" tvg-name="PL: dlaCiebie TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: dlaCiebie TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="PL: DlaCiebie TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: DlaCiebie TV FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666284780
 #EXTINF:-1 tvg-id="" tvg-name="PL: Radio Czworka FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: Radio Czworka FHD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666284790
-#EXTINF:-1 tvg-id="" tvg-name="PL: Top Cinema Kids FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: Top Cinema Kids FHD
-#EXTGRP:Poland
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666285337
-#EXTINF:-1 tvg-id="" tvg-name="PL: Trawn TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: Trawn TV HD
+#EXTINF:-1 tvg-id="" tvg-name="PL: Trwn TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: Trwn TV HD
 #EXTGRP:Poland
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286736
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="IE: Premier Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9c7d3f18c08487ae764df48783c089a1.png" group-title="Ireland",IE: Premier Sport 1 FHD
-#EXTGRP:Ireland
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661097
-#EXTINF:-1 tvg-id="" tvg-name="IE: Virgin Media Three HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fda80f223632d6ae0fb79340d3c5c791.png" group-title="Ireland",IE: Virgin Media Three HD
-#EXTGRP:Ireland
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6667995
-#EXTINF:-1 tvg-id="" tvg-name="IE: TG 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/13539650a3830304ad894270fba55056.png" group-title="Ireland",IE: TG 4 HD
-#EXTGRP:Ireland
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66611572
-#EXTINF:-1 tvg-id="" tvg-name="IE: RTA JR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Ireland",IE: RTA JR HD
-#EXTGRP:Ireland
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286738
+#EXTINF:-1 tvg-id="" tvg-name="PL: ANTENA TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: ANTENA TV HD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666287744
+#EXTINF:-1 tvg-id="" tvg-name="PL: Ezo TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Poland",PL: Ezo TV HD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666287763
+#EXTINF:-1 tvg-id="" tvg-name="PL: Wydarzenia 24 FHD" tvg-logo="" group-title="Poland",PL: Wydarzenia 24 FHD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666290383
+#EXTINF:-1 tvg-id="" tvg-name="PL: AXN Movies HD" tvg-logo="" group-title="Poland",PL: AXN Movies HD
+#EXTGRP:Poland
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666290479
 #EXTINF:-1 tvg-id="CANPSPO" tvg-name="FR: CANAL+ Sport FHD" tvg-logo="http://fanc.tmsimg.com/assets/s51775_ll_h3_aa.png" group-title="France",FR: CANAL+ Sport FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666143
@@ -1274,7 +1895,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666147
 #EXTINF:-1 tvg-id="AUTOM" tvg-name="FR: Automoto HD" tvg-logo="http://fanc.tmsimg.com/assets/s87162_ll_h3_aa.png" group-title="France",FR: Automoto HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666148
-#EXTINF:-1 tvg-id="DEUROSP" tvg-name="FR: EUROSPORT 1 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s38359_ll_h3_aa.png" group-title="France",FR: EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="DEUROSP" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s38359_ll_h3_aa.png" group-title="France",FR: EUROSPORT 1 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666151
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR: TF 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d8fa325e3c7d2142d8a75f91ab50be9d.png" group-title="France",FR: TF 1 FHD
@@ -1355,7 +1976,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666178
 #EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ Club FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e0f6b0215f3841b3da3e3fadb76aac02.png" group-title="France",FR: CINE+ Club FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666179
-#EXTINF:-1 tvg-id="COMEDIE" tvg-name="FR: Comedie+ FHD" tvg-logo="http://fanc.tmsimg.com/assets/s51803_ll_h3_aa.png" group-title="France",FR: Comedie+ FHD
+#EXTINF:-1 tvg-id="COMEDIE" tvg-name="FR: Comedie+ HD" tvg-logo="http://fanc.tmsimg.com/assets/s51803_ll_h3_aa.png" group-title="France",FR: Comedie+ HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666180
 #EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR: 13eme Rue FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ca3552cf868b7aea747f4ef30312862.png" group-title="France",FR: 13eme Rue FHD
@@ -1370,10 +1991,10 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666183
 #EXTINF:-1 tvg-id="BETFR" tvg-name="FR: BET FHD" tvg-logo="http://fanc.tmsimg.com/assets/s112058_ll_h3_aa.png" group-title="France",FR: BET FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666184
-#EXTINF:-1 tvg-id="DWRLDHD" tvg-name="FR: Discovery World FHD" tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="France",FR: Discovery World FHD
+#EXTINF:-1 tvg-id="DWRLDHD" tvg-name="FR: Discovery World HD" tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="France",FR: Discovery World HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666185
-#EXTINF:-1 tvg-id="DISSCIF" tvg-name="FR: Discovery Science FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87637_ll_h3_aa.png" group-title="France",FR: Discovery Science FHD
+#EXTINF:-1 tvg-id="DISSCIF" tvg-name="FR: Discovery Science HD" tvg-logo="http://fanc.tmsimg.com/assets/s87637_ll_h3_aa.png" group-title="France",FR: Discovery Science HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666186
 #EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/68d809c9589d34424c06003f941b186d.png" group-title="France",FR: NAT GEO FHD
@@ -1403,10 +2024,10 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666196
 #EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR: RMC Decouverte FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7887d79e509253f0e239898ab1c4757.png" group-title="France",FR: RMC Decouverte FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666198
-#EXTINF:-1 tvg-id="SCVITV" tvg-name="FR: Science & Vie TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s51829_ll_h3_aa.png" group-title="France",FR: Science & Vie TV HD
+#EXTINF:-1 tvg-id="SCVITV" tvg-name="FR: Science & Vie TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s51829_ll_h3_aa.png" group-title="France",FR: Science & Vie TV FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666199
-#EXTINF:-1 tvg-id="TOULHST" tvg-name="FR: Toute l Histoire FHD" tvg-logo="http://fanc.tmsimg.com/assets/s52868_ll_h3_aa.png" group-title="France",FR: Toute l Histoire FHD
+#EXTINF:-1 tvg-id="TOULHST" tvg-name="FR: Toute Histoire FHD" tvg-logo="http://fanc.tmsimg.com/assets/s52868_ll_h3_aa.png" group-title="France",FR: Toute Histoire FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666200
 #EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR: Histoire TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3257308c1b57ea167f7536283981880f.png" group-title="France",FR: Histoire TV HD
@@ -1415,7 +2036,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666201
 #EXTINF:-1 tvg-id="" tvg-name="FR: J One HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9795a7751ade36310905a802e9a96340.png" group-title="France",FR: J One HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666202
-#EXTINF:-1 tvg-id="TNAMIFR" tvg-name="FR: Toonami FHD" tvg-logo="http://fanc.tmsimg.com/assets/s112056_ll_h3_aa.png" group-title="France",FR: Toonami FHD
+#EXTINF:-1 tvg-id="TNAMIFR" tvg-name="FR: Toonami Movies FHD" tvg-logo="http://fanc.tmsimg.com/assets/s112056_ll_h3_aa.png" group-title="France",FR: Toonami Movies FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666203
 #EXTINF:-1 tvg-id="NCKLDN" tvg-name="FR: nickelodeon FHD" tvg-logo="http://fanc.tmsimg.com/assets/s52479_ll_h3_aa.png" group-title="France",FR: nickelodeon FHD
@@ -1436,7 +2057,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666210
 #EXTINF:-1 tvg-id="CANJ" tvg-name="FR: CANAL J FHD" tvg-logo="http://fanc.tmsimg.com/assets/s51768_ll_h3_aa.png" group-title="France",FR: CANAL J FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666212
-#EXTINF:-1 tvg-id="BOINGFR" tvg-name="FR: Boing HD" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" group-title="France",FR: Boing HD
+#EXTINF:-1 tvg-id="BOINGFR" tvg-name="FR: Boing FHD" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" group-title="France",FR: Boing FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666213
 #EXTINF:-1 tvg-id="MANGAS" tvg-name="FR: Mangas FHD" tvg-logo="http://fanc.tmsimg.com/assets/s52141_ll_h3_aa.png" group-title="France",FR: Mangas FHD
@@ -1463,7 +2084,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666223
 #EXTINF:-1 tvg-id="M6MUS" tvg-name="FR: M6 Music FHD" tvg-logo="http://fanc.tmsimg.com/assets/s89278_ll_h3_aa.png" group-title="France",FR: M6 Music FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666224
-#EXTINF:-1 tvg-id="TUDOM" tvg-name="FR: TRACE URBAN HD" tvg-logo="http://fanc.tmsimg.com/assets/s114907_ll_h3_aa.png" group-title="France",FR: TRACE URBAN HD
+#EXTINF:-1 tvg-id="TUDOM" tvg-name="FR: TRACE URBAN FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114907_ll_h3_aa.png" group-title="France",FR: TRACE URBAN FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666225
 #EXTINF:-1 tvg-id="NRJ12F" tvg-name="FR: NRJ 12 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s78979_ll_h3_aa.png" group-title="France",FR: NRJ 12 FHD
@@ -1556,10 +2177,10 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661186
 #EXTINF:-1 tvg-id="INFOSPT" tvg-name="FR: InfoSport+ HD" tvg-logo="http://fanc.tmsimg.com/assets/s87380_ll_h3_aa.png" group-title="France",FR: InfoSport+ HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661190
-#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+ FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b61d379a4680d4d25b5230df16458bce.png" group-title="France",FR: Foot+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+ HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b61d379a4680d4d25b5230df16458bce.png" group-title="France",FR: Foot+ HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661193
-#EXTINF:-1 tvg-id="EUSP2FR" tvg-name="FR: EUROSPORT 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87327_ll_h3_aa.png" group-title="France",FR: EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="EUSP2FR" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s87327_ll_h3_aa.png" group-title="France",FR: EUROSPORT 2 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661195
 #EXTINF:-1 tvg-id="DISJF" tvg-name="FR: Disney Junior FHD" tvg-logo="http://fanc.tmsimg.com/assets/s79387_ll_h3_aa.png" group-title="France",FR: Disney Junior FHD
@@ -1571,7 +2192,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661198
 #EXTINF:-1 tvg-id="POLAPL" tvg-name="FR: POLAR+ FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114649_ll_h3_aa.png" group-title="France",FR: POLAR+ FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661202
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 2 FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661887
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 10 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 10 HD
@@ -1631,7 +2252,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6661940
 #EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="FR: E! FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/580754fc4622e2ac5ac71241a59d5008.png" group-title="France",FR: E! FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6662978
-#EXTINF:-1 tvg-id="BEINMX4" tvg-name="FR: beIN Sports Max 4 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s83212_ll_h3_aa.png" group-title="France",FR: beIN Sports Max 4 FHD
+#EXTINF:-1 tvg-id="BEINMX4" tvg-name="FR: beIN Sports Max 4 HD" tvg-logo="http://fanc.tmsimg.com/assets/s83212_ll_h3_aa.png" group-title="France",FR: beIN Sports Max 4 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/6663599
 #EXTINF:-1 tvg-id="TKITOKO" tvg-name="FR: TRACE Kitoko HD" tvg-logo="http://fanc.tmsimg.com/assets/s114904_ll_h3_aa.png" group-title="France",FR: TRACE Kitoko HD
@@ -1700,7 +2321,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66610145
 #EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Caribbean HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/020189ac436488a911ea07bcb65bdcad.png" group-title="France",FR: TRACE Caribbean HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66611843
-#EXTINF:-1 tvg-id="MTVITS" tvg-name="FR: MTV Hits FHD" tvg-logo="http://fanc.tmsimg.com/assets/s97487_ll_h3_aa.png" group-title="France",FR: MTV Hits FHD
+#EXTINF:-1 tvg-id="MTVITS" tvg-name="FR: Club MTV HD" tvg-logo="http://fanc.tmsimg.com/assets/s97487_ll_h3_aa.png" group-title="France",FR: Club MTV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66611845
 #EXTINF:-1 tvg-id="TRACEGO" tvg-name="FR: TRACE Gospel HD" tvg-logo="http://fanc.tmsimg.com/assets/s98706_ll_h3_aa.png" group-title="France",FR: TRACE Gospel HD
@@ -1715,7 +2336,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66612001
 #EXTINF:-1 tvg-id="TRCESPT" tvg-name="FR: TRACE Sport Stars FHD" tvg-logo="http://fanc.tmsimg.com/assets/s96443_ll_h3_aa.png" group-title="France",FR: TRACE Sport Stars FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66612002
-#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR: Warner TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e061eeee475c52c63a26abc87e56f453.png" group-title="France",FR: Warner TV FHD
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR: Warner TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e061eeee475c52c63a26abc87e56f453.png" group-title="France",FR: Warner TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66613360
 #EXTINF:-1 tvg-id="alticestudio.fr" tvg-name="FR: Altice Studio FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0e99b12b756e601986b70b4cb02a1f9b.png" group-title="France",FR: Altice Studio FHD
@@ -1724,7 +2345,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66613364
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 5 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66613603
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 6 FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66613722
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 9 HD
@@ -1763,6 +2384,9 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66615360
 #EXTINF:-1 tvg-id="RTFRA" tvg-name="FR: RT France FHD" tvg-logo="http://fanc.tmsimg.com/assets/s106917_ll_h3_aa.png" group-title="France",FR: RT France FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66615365
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Aventure HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Orange Cinema Aventure HD
+#EXTGRP:France
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66615395
 #EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Box Office 1 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66615401
@@ -1787,7 +2411,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66615408
 #EXTINF:-1 tvg-id="" tvg-name="FR: Boss TV Movies 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Boss TV Movies 9 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66616720
-#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/843bc52e114f117f9daba60cd6cfa3a9.png" group-title="France",FR: MY CUISINE HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY Cuisine HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/843bc52e114f117f9daba60cd6cfa3a9.png" group-title="France",FR: MY Cuisine HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66616731
 #EXTINF:-1 tvg-id="RMCSP2" tvg-name="FR: RMC SPORT 7 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87436_ll_h3_aa.png" group-title="France",FR: RMC SPORT 7 FHD
@@ -1805,7 +2429,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66623413
 #EXTINF:-1 tvg-id="LFMTV" tvg-name="FR: LFM TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0076c4439bca642a68617c1182038b8f.png" group-title="France",FR: LFM TV FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66623414
-#EXTINF:-1 tvg-id="VICEFR" tvg-name="FR: Vice HD" tvg-logo="http://fanc.tmsimg.com/assets/s114650_ll_h3_aa.png" group-title="France",FR: Vice HD
+#EXTINF:-1 tvg-id="VICEFR" tvg-name="FR: Vice FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114650_ll_h3_aa.png" group-title="France",FR: Vice FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66623417
 #EXTINF:-1 tvg-id="ABXPLOR" tvg-name="FR: AB Xplore FHD" tvg-logo="http://fanc.tmsimg.com/assets/s51620_ll_h3_aa.png" group-title="France",FR: AB Xplore FHD
@@ -1823,7 +2447,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66624866
 #EXTINF:-1 tvg-id="" tvg-name="FR: Melody FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/925ea398a0762ecce7e5a2aa148b575b.png" group-title="France",FR: Melody FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66627959
-#EXTINF:-1 tvg-id="NOVELAS" tvg-name="FR: Novelas TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s105638_ll_h3_aa.png" group-title="France",FR: Novelas TV FHD
+#EXTINF:-1 tvg-id="NOVELAS" tvg-name="FR: Novelas TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s105638_ll_h3_aa.png" group-title="France",FR: Novelas TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66627960
 #EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Latina HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b1aaf9a717fe0068e81fd7e975bc8fe0.png" group-title="France",FR: TRACE Latina HD
@@ -1856,7 +2480,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66644709
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 11 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 11 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66646111
-#EXTINF:-1 tvg-id="" tvg-name="FR: Public Senat HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d638c2e4cb20311c699753027b86f8.png" group-title="France",FR: Public Senat HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Public Senat FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d638c2e4cb20311c699753027b86f8.png" group-title="France",FR: Public Senat FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66650056
 #EXTINF:-1 tvg-id="BBTVFR" tvg-name="FR: Baby TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s100181_ll_h3_ac.png" group-title="France",FR: Baby TV FHD
@@ -1901,25 +2525,13 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66682959
 #EXTINF:-1 tvg-id="LUCKYJL" tvg-name="FR: Lucky Jack TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s75342_h3_aa.png" group-title="France",FR: Lucky Jack TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/66691819
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: NETFLIX FILM 4 HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666145296
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: NETFLIX FILM 1 HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666145297
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: NETFLIX FILM 2 HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666145300
-#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: NETFLIX FILM 5 HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666145301
 #EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Paris FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV Paris FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666146554
 #EXTINF:-1 tvg-id="" tvg-name="FR: FashionTV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2679618ae798cba402627fc673e550a4.png" group-title="France",FR: FashionTV FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666146555
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 12 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 12 FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 12 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 12 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666146590
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 13 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 13 FHD
@@ -1937,7 +2549,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666146594
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 17 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 17 FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666146595
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 18 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 18 FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 18 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL PLAY 18 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666146596
 #EXTINF:-1 tvg-id="" tvg-name="FR: EMCI TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/19f41f772009697673b87c00ac28a75f.png" group-title="France",FR: EMCI TV FHD
@@ -1955,24 +2567,15 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666168241
 #EXTINF:-1 tvg-id="" tvg-name="FR: La Chaine Meteo HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1f07a96021f20a916b1293b65dde5921.png" group-title="France",FR: La Chaine Meteo HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666168914
-#EXTINF:-1 tvg-id="TVANILL" tvg-name="FR: TRACE Vanilla HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6dae21a8ecb0ef8fdc5e91e80faeaef6.png" group-title="France",FR: TRACE Vanilla HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666172263
 #EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Orange Cinema HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666174562
-#EXTINF:-1 tvg-id="TBRAZUC" tvg-name="FR: TRACE Brazuca HD" tvg-logo="http://fanc.tmsimg.com/assets/s115022_ll_h3_aa.png" group-title="France",FR: TRACE Brazuca HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666188984
 #EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: RMC SPORT 10 FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666192025
 #EXTINF:-1 tvg-id="" tvg-name="FR: Play TV Kids 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Play TV Kids 2 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666192113
-#EXTINF:-1 tvg-id="" tvg-name="FR: viàVosges HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: viàVosges HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666192652
 #EXTINF:-1 tvg-id="" tvg-name="FR: Boss TV Movies 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Boss TV Movies 1 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666193609
@@ -1994,7 +2597,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666193614
 #EXTINF:-1 tvg-id="" tvg-name="FR: Boss TV Movies 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Boss TV Movies 8 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666193615
-#EXTINF:-1 tvg-id="" tvg-name="FR: viàOccitanie HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: viàOccitanie HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: ViaOccitanie HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: ViaOccitanie HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666194295
 #EXTINF:-1 tvg-id="" tvg-name="FR: TeleGrenoble Isere HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TeleGrenoble Isere HD
@@ -2039,22 +2642,22 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666267860
 #EXTINF:-1 tvg-id="" tvg-name="FR: Motorvision TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/70517bbb44cfd85432253e855bec7bb9.png" group-title="France",FR: Motorvision TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666268514
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV3V HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TV3V HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: MDL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: MDL HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666275294
 #EXTINF:-1 tvg-id="" tvg-name="FR: TV78 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TV78 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666275295
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 5 ACTION HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Orange Cine 5 ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 5 Action HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Orange Cine 5 Action HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666275370
-#EXTINF:-1 tvg-id="TAFRIKO" tvg-name="FR: TRACE Afrikora HD" tvg-logo="http://fanc.tmsimg.com/assets/s114902_ll_h3_aa.png" group-title="France",FR: TRACE Afrikora HD
+#EXTINF:-1 tvg-id="TAFRIKO" tvg-name="FR: TRACE Afrikora FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114902_ll_h3_aa.png" group-title="France",FR: TRACE Afrikora FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666275394
 #EXTINF:-1 tvg-id="EQULIVE" tvg-name="FR: Equidia HD" tvg-logo="http://fanc.tmsimg.com/assets/s87324_h3_aa.png" group-title="France",FR: Equidia HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666276130
-#EXTINF:-1 tvg-id="" tvg-name="FR: Clique TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bc84c12f7d2ea7057e00b756eb98ca36.png" group-title="France",FR: Clique TV HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Clique TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bc84c12f7d2ea7057e00b756eb98ca36.png" group-title="France",FR: Clique TV FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666278402
 #EXTINF:-1 tvg-id="" tvg-name="FR: Motorsport TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/d40b00e0a0c8f41d1dbfbe91f71412f4.png" group-title="France",FR: Motorsport TV FHD
@@ -2081,7 +2684,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666279629
 #EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime Video 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/000b5ab5a7a503264efaa8140e05a499.jpg" group-title="France",FR: Amazon Prime Video 1 HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666279721
-#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime Video 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/1b16284dabe5cbda6c647e5f04a38e3b.jpg" group-title="France",FR: Amazon Prime Video 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime Video 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/1b16284dabe5cbda6c647e5f04a38e3b.jpg" group-title="France",FR: Amazon Prime Video 2 FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666279722
 #EXTINF:-1 tvg-id="" tvg-name="FR: Amazon Prime Video 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/584e96c4755b3e1c2e29435f3053def7.jpg" group-title="France",FR: Amazon Prime Video 3 FHD
@@ -2141,7 +2744,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281425
 #EXTINF:-1 tvg-id="" tvg-name="FR: Monde du loisir TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Monde du loisir TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281427
-#EXTINF:-1 tvg-id="" tvg-name="FR: TebeSud HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TebeSud HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: TebeSud FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TebeSud FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281428
 #EXTINF:-1 tvg-id="" tvg-name="FR: TV Tebeo HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TV Tebeo HD
@@ -2183,6 +2786,9 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281597
 #EXTINF:-1 tvg-id="" tvg-name="FR: Olympia TV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/294ed601157952e90910e317ad5d1d9e.png" group-title="France",FR: Olympia TV FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281599
+#EXTINF:-1 tvg-id="" tvg-name="FR: C Star Hits France HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: C Star Hits France HD
+#EXTGRP:France
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281600
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3fb27f3520022e79fe242fe2de5c88e7.png" group-title="France",FR: CANAL+ Kids HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281601
@@ -2213,27 +2819,18 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281781
 #EXTINF:-1 tvg-id="" tvg-name="FR: beIN Box OFFICE 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: beIN Box OFFICE 1 FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281782
-#EXTINF:-1 tvg-id="" tvg-name="FR: C Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: C Music HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Stingray CMusic FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Stingray CMusic FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281784
-#EXTINF:-1 tvg-id="" tvg-name="FR: Contact Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Contact Music HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281846
 #EXTINF:-1 tvg-id="" tvg-name="FR: Stingray Classica HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/8e4dad280b46e47d7d30063392792806.jpg" group-title="France",FR: Stingray Classica HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666281897
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ad1c344a7476e68e55b529b80a485537.jpg" group-title="France",FR: beIN Sports 4 HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666282053
-#EXTINF:-1 tvg-id="" tvg-name="FR: okoo TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: okoo TV HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: okoo TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: okoo TV FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666283282
 #EXTINF:-1 tvg-id="" tvg-name="FR: Emergence TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Emergence TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666284458
-#EXTINF:-1 tvg-id="" tvg-name="FR: Dream Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Dream Music HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666284459
 #EXTINF:-1 tvg-id="" tvg-name="FR: La Chaine Normande HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: La Chaine Normande HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666284460
@@ -2255,42 +2852,33 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286446
 #EXTINF:-1 tvg-id="" tvg-name="FR: Action Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Action Sports HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286448
-#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Animaux HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286449
-#EXTINF:-1 tvg-id="" tvg-name="FR: Animé All Day HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Animé All Day HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Anime All Day HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Anime All Day HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286450
 #EXTINF:-1 tvg-id="" tvg-name="FR: BET Classics HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: BET Classics HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286451
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bob l'éponge HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Bob l'éponge HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bob leponge HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Bob leponge HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286452
 #EXTINF:-1 tvg-id="" tvg-name="FR: Catfish HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Catfish HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286453
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Ciné HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286454
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné Rétro HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Ciné Rétro HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Retro HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CINE+ Retro HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286455
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Ciné+ HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CINE+ HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286456
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cinéma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Cinéma HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINEma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CINEma HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286457
 #EXTINF:-1 tvg-id="" tvg-name="FR: Classic TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Classic TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286458
-#EXTINF:-1 tvg-id="" tvg-name="FR: Crime HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Crime HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286459
 #EXTINF:-1 tvg-id="" tvg-name="FR: Crime+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Crime+ HD
 #EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286460
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286459
 #EXTINF:-1 tvg-id="" tvg-name="FR: Cuisine HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Cuisine HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286461
@@ -2303,7 +2891,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286463
 #EXTINF:-1 tvg-id="" tvg-name="FR: Drama+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Drama+ HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286464
-#EXTINF:-1 tvg-id="" tvg-name="FR: Extrême HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Extrême HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Extreme HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Extreme HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286465
 #EXTINF:-1 tvg-id="" tvg-name="FR: FailArmy HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: FailArmy HD
@@ -2312,31 +2900,28 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286466
 #EXTINF:-1 tvg-id="" tvg-name="FR: Gaming TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Gaming TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286467
-#EXTINF:-1 tvg-id="" tvg-name="FR: Hélène & les garçons HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Hélène & les garçons HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Helene & les garcons HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Helene & les garcons HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286468
 #EXTINF:-1 tvg-id="" tvg-name="FR: IGN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: IGN HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286469
-#EXTINF:-1 tvg-id="" tvg-name="FR: Investigation HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Investigation HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286470
 #EXTINF:-1 tvg-id="" tvg-name="FR: Junior HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Junior HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286471
-#EXTINF:-1 tvg-id="" tvg-name="FR: Kids Séries+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Kids Séries+ HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Kids Series+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Kids Series+ HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286472
 #EXTINF:-1 tvg-id="" tvg-name="FR: Le miel & les abeilles HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Le miel & les abeilles HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286473
-#EXTINF:-1 tvg-id="" tvg-name="FR: Le miracle de l'amour HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Le miracle de l'amour HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Le miracle de lamour HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Le miracle de lamour HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286474
 #EXTINF:-1 tvg-id="" tvg-name="FR: Les Nouveaux Detectives HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Les Nouveaux Detectives HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286475
-#EXTINF:-1 tvg-id="" tvg-name="FR: Les filles d'à côté HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Les filles d'à côté HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Les filles da cote HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Les filles da cote HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286476
 #EXTINF:-1 tvg-id="" tvg-name="FR: Live in Concert HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Live in Concert HD
@@ -2348,12 +2933,9 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286478
 #EXTINF:-1 tvg-id="" tvg-name="FR: MTV Catfish+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: MTV Catfish+ HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286479
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: MTV Classic
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Classics HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: MTV Classics HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286480
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Classics+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: MTV Classics+ HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286481
 #EXTINF:-1 tvg-id="" tvg-name="FR: Nature HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Nature HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286482
@@ -2396,13 +2978,10 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286494
 #EXTINF:-1 tvg-id="" tvg-name="FR: iCarly HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: iCarly HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286495
-#EXTINF:-1 tvg-id="" tvg-name="FR: iCarly+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: iCarly+ HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286496
 #EXTINF:-1 tvg-id="" tvg-name="FR: 7ALimoges FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: 7ALimoges FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286497
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Grand Littoral HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: BFM Grand Littoral HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Grand Littoral FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: BFM Grand Littoral FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286499
 #EXTINF:-1 tvg-id="" tvg-name="FR: BFM Lyon HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: BFM Lyon HD
@@ -2411,22 +2990,13 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286500
 #EXTINF:-1 tvg-id="" tvg-name="FR: Central TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Central TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286502
-#EXTINF:-1 tvg-id="" tvg-name="FR: euronews Français HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: euronews Français HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286503
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV (England) FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV (England) FHD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286504
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV New York (PG13) HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV New York (PG13) HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV New York HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV New York HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286505
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV PG16 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV PG16 FHD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286506
 #EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Singapore FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV Singapore FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286508
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Tokyo (PG13) FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV Tokyo (PG13) FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Tokyo FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV Tokyo FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286509
 #EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Mumbai HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Fashion TV Mumbai HD
@@ -2435,27 +3005,18 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286511
 #EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE Inter HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: FRANCE Inter HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286512
-#EXTINF:-1 tvg-id="" tvg-name="FR: Francophonie 24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Francophonie 24 FHD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286513
 #EXTINF:-1 tvg-id="" tvg-name="FR: Generations TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Generations TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286514
-#EXTINF:-1 tvg-id="" tvg-name="FR: MDL HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: MDL HD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286515
 #EXTINF:-1 tvg-id="" tvg-name="FR: P2M TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: P2M TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286516
-#EXTINF:-1 tvg-id="" tvg-name="FR: MADE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: MADE HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: Made HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Made HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286517
 #EXTINF:-1 tvg-id="" tvg-name="FR: Sofy TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Sofy TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286518
-#EXTINF:-1 tvg-id="" tvg-name="FR: TMA Caraïbes FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TMA Caraïbes FHD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286519
 #EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde Europe FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TV5 Monde Europe FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286520
@@ -2465,19 +3026,13 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286522
 #EXTINF:-1 tvg-id="" tvg-name="FR: TVR (Bretagne) HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TVR (Bretagne) HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286524
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Sport Stars (Australia) FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TRACE Sport Stars (Australia) FHD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286525
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN (Australia) FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TRACE URBAN (Australia) FHD
-#EXTGRP:France
-https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286526
 #EXTINF:-1 tvg-id="" tvg-name="FR: Wildside TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Wildside TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286528
-#EXTINF:-1 tvg-id="" tvg-name="FR: viàMATÉLÉ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: viàMATÉLÉ HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: ViamaTele HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: ViamaTele HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286529
-#EXTINF:-1 tvg-id="" tvg-name="FR: viàMoselle TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: viàMoselle TV HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: ViaMoselle TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: ViaMoselle TV HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286530
 #EXTINF:-1 tvg-id="" tvg-name="FR: M6 International FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: M6 International FHD
@@ -2486,7 +3041,7 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286533
 #EXTINF:-1 tvg-id="" tvg-name="FR: Monaco Info HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Monaco Info HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286746
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC INFO TALK SPORT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: RMC INFO TALK SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Info Talk Sport HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: RMC Info Talk Sport HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286747
 #EXTINF:-1 tvg-id="" tvg-name="FR: Donald Duck HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Donald Duck HD
@@ -2501,6 +3056,12 @@ https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286750
 #EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Catastrophe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CINE+ Catastrophe HD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286751
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL+ PREMIER LEAGUE FHD
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Premier League FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: CANAL+ Premier League FHD
 #EXTGRP:France
 https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666286794
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC +1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: TMC +1 FHD
+#EXTGRP:France
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666287753
+#EXTINF:-1 tvg-id="" tvg-name="FR: Novelas+ FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France",FR: Novelas+ FHD
+#EXTGRP:France
+https://dumdumbullet.com/2022631336/YCw8Rdw7Y9/666287794
